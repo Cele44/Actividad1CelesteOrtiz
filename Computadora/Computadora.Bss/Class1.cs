@@ -1,4 +1,4 @@
-﻿namespace Computadora.Bss
+﻿namespace Computadora.BSS
 {
     public class Class1
     {
